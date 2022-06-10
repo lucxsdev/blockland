@@ -18,7 +18,7 @@ npm install
 npm start
 ```
 
-1 - step:
+4 - step:
 
 - Open localhost on port 2002:   http://localhost:2002/
 
